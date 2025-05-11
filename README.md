@@ -12,6 +12,8 @@
 - Device-Specific Redirects
 - Schedule Redirects
 - IP, Location Whitelisting/Blacklisting
+- Custom Domain
+- Custom Aliases
 
 ## Analytics & Tracking
 
@@ -27,4 +29,3 @@
 - Signup
 - Link management dashboard
 - User Permissions & Roles
-- Custom Aliases
