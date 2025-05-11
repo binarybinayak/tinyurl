@@ -1,13 +1,3 @@
-# TinyURL api
-
-## authRouter
-
-- POST /signup
-- POST /login
-- POST /logout
-
-## urlCompressRouter
-
 # TinyURL API
 
 ## authRouter
@@ -22,7 +12,7 @@
    **Request:**  
    `{ 
   password: { enabled: true/false, password },  
-  expiry: { maxClicks, expiresAt },  
+  expiry: { maxCLicks, expiresAt },  
   metaData: { title, description, image },  
   validFrom,
   block: { ip, location },  
