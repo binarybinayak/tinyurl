@@ -9,7 +9,6 @@
 - Password Protection (n-number times use password, time based password, admin password)
 - Link Expiration (Time, No of click)
 - Link preview customization (Meta image, title and description)
-- Device-Specific Redirects
 - Schedule Redirects
 - IP, Location Whitelisting/Blacklisting
 - Custom Domain
