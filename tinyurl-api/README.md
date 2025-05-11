@@ -22,7 +22,7 @@
    **Request:**  
    `{ 
   password: { enabled: true/false, password },  
-  expiry: { maxCLicks, expiresAt },  
+  expiry: { maxClicks, expiresAt },  
   metaData: { title, description, image },  
   validFrom,
   block: { ip, location },  
