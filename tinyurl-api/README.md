@@ -11,13 +11,14 @@
 - POST /compress  
    **Request:**  
    `{ 
-  password: { enabled: true/false, password },  
-  expiry: { maxCLicks, expiresAt },  
-  metaData: { title, description, image },  
-  validFrom,
-  block: { ip, location },  
-  customAlias (need logged in user) 
-}`  
+    adminPassword
+    password: { enabled: true/false, password },  
+    expiry: { maxCLicks, expiresAt },  
+    metaData: { title, description, image },  
+    validFrom,
+    block: { ip, location },  
+    customAlias (need logged in user) 
+ }`  
    **Response:**  
    `{ shortURL, qr, meta: { title, description, image } }`
 
